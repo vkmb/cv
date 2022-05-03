@@ -1,0 +1,1 @@
+Exercise 1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vkmb/cv/main?labpath=Exercise%201%2Fexercise_1.ipynb)
